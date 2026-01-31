@@ -24,10 +24,10 @@ I'm a general senior high school student from The Affiliated High School Of Sout
 </p>
 <h2>最后 - The End</h2>
 <p>
-  如今，为了应对高考，我已没有什么时间编程。但我始终保持着那份热爱，坚守着心中的那个理想。
+  如今，为了应对高考，我已没有什么时间能够再像过去一样时常编程。但我会始终保持着那份热爱，朝着心中的目标前进。大学见！
 </p>
 <p>
-  Nowadays, in order to prepare for the college entrance examination, I no longer have much time for coding. But I have always kept that love, stick to that ideal in my heart.
+  Nowadays, in order to prepare for the college entrance examination, I no longer have much time to code as often as I used to. But I will always kept that love, moving forward the goal in my heart.See you in university!
 </p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=再见啦！Good%20Bye!&fontSize=90&fontAlign=50&fontAlignY=70&desc=祝你编程愉快！Happy%20Coding!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
